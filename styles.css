@@ -1,0 +1,50 @@
+body{
+    font-family: 'Public Sans', sans-serif;
+    overflow-x: hidden;
+}
+h1,
+h2,
+h3 {
+  color: hsl(233, 26%, 24%);
+  font-weight: 700;
+}
+p {
+  color: hsl(233, 8%, 62%);
+}
+.button {
+  background-image: linear-gradient(
+    90deg,
+    hsl(136, 65%, 51%),
+    hsl(192, 70%, 51%)
+  );
+  color: white;
+}
+.button:hover{
+    color: blueviolet;
+}
+.nav:hover{
+    border-bottom: 3px solid hsl(192, 70%, 51%);
+    color: black;
+}
+.heading:hover{
+    color:hsl(136, 65%, 51%) ;
+    cursor: pointer;
+}
+.foot:hover{
+    color:hsl(136, 65%, 51%)
+}
+.why{
+    background-color: hsl(220, 16%, 96%);
+}
+.articles,.head{
+    background-color: hsl(0, 0%, 98%);
+}
+.footer{
+    background-color: hsl(233, 26%, 24%);
+}
+.mobileNav{
+    background-color: hsla(233, 26%, 24%,50%);
+}
+.close{
+    transform: translateX(-100%);
+}
