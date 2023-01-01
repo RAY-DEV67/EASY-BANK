@@ -1,26 +1,24 @@
-# Easybank landing page solution 
+#  Easy Bank
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Links](#links)
+  - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-
 
 ## Overview
 
 ### The challenge
 
 Users should be able to:
+- View the optimal layout for the interface depending on their device's screen size
+- See hover and focus states for all interactive elements on the page
+### Screenshot
 
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
-
-### Links
-- Live Site URL: [...](https://your-live-site-url.com)
+![](./easybank.png)
 
 ## My process
 
@@ -28,11 +26,11 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+- CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- Tailwind - CSS library
+- JavaScript
+- Tailwind
 
 ## Author
 
-- Website - [HENRY ELEBOR](https://www.your-site.com)
+- [Henry Elebor]
